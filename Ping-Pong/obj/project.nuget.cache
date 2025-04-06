@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7S2TpZ6dxCk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sara\\Documents\\Projectes-Git\\Ping_Pong_Retro\\Ping-Pong\\Ping-Pong\\Ping-Pong.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sara\\.nuget\\packages\\heirloom.core\\1.0.2-beta\\heirloom.core.1.0.2-beta.nupkg.sha512",
+    "C:\\Users\\Sara\\.nuget\\packages\\heirloom.desktop\\1.0.2-beta\\heirloom.desktop.1.0.2-beta.nupkg.sha512",
+    "C:\\Users\\Sara\\.nuget\\packages\\heirloom.miniaudio\\1.0.2-beta\\heirloom.miniaudio.1.0.2-beta.nupkg.sha512",
+    "C:\\Users\\Sara\\.nuget\\packages\\heirloom.opengles\\1.0.2-beta\\heirloom.opengles.1.0.2-beta.nupkg.sha512"
+  ],
+  "logs": []
+}
