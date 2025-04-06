@@ -3,7 +3,7 @@
 
 # 🕹️ Ping Pong Retro
 
-**Ping Pong Retro** is a recreation of the classic Pong game, developed in C# using Windows Forms. This project brings back the retro aesthetic of early arcade games, offering simple and smooth gameplay.
+**Ping Pong Retro** is a recreation of the classic Pong game, developed in C#. This project brings back the retro aesthetic of early arcade games, offering simple and smooth gameplay.
 
 ## 🎮 Main Features
 
@@ -21,21 +21,17 @@ The game operates through a loop that constantly updates the position of on-scre
 
 - Language: C#
 - Framework: Windows Forms (.NET Framework)
+- Additional Libraries: Heirloom for managing graphics and user input.
 
 ## 💡 Project Purpose
 
-This project aims to provide hands-on practice with essential programming concepts such as object-oriented programming, keyboard event handling, timers, and basic 2D graphics using Windows Forms. It also serves as an introduction to simple 2D game development.
-
----
-
-Let me know if you'd like me to design a visual README banner or additional sections like **"How to Play"** or **"Installation Instructions"**.
-
+This project aims to provide hands-on practice with essential programming concepts such as object-oriented programming, keyboard event handling, timers, and basic 2D graphics using Heirloo library. It also serves as an introduction to simple 2D game development.
 
 ## 🚀 DESCRIPCIÓN (SPANISH)
 
 # 🕹️ Ping Pong Retro
 
-**Ping Pong Retro** es una implementación del clásico juego de Pong, desarrollada en C# utilizando Windows Forms. Este proyecto recrea la estética retro de los primeros videojuegos de arcade, manteniendo una jugabilidad sencilla y fluida. 
+**Ping Pong Retro** es una implementación del clásico juego de Pong, desarrollada en C#. Este proyecto recrea la estética retro de los primeros videojuegos de arcade, manteniendo una jugabilidad sencilla y fluida. 
 
 ## 🎮 Características principales
 
@@ -53,11 +49,8 @@ El programa se basa en un bucle de juego que actualiza continuamente la posició
 
 - Lenguaje: C#
 - Entorno: Windows Forms (.NET Framework)
+- Librerías adicionales: Heirloom para la gestión de gráficos y entrada de usuario.
 
 ## 💡 Objetivo del proyecto
 
-Este juego tiene como finalidad aprender y practicar conceptos clave de la programación orientada a objetos, eventos de teclado, temporizadores y dibujo en pantalla con Windows Forms. También sirve como introducción al desarrollo de videojuegos 2D sencillos.
-
----
-
-¿Quieres que también
+Este juego tiene como finalidad aprender y practicar conceptos clave de la programación orientada a objetos, eventos de teclado, temporizadores y dibujo en pantalla. También sirve como introducción al desarrollo de videojuegos 2D sencillos.
