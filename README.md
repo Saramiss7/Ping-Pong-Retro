@@ -1,3 +1,4 @@
+![SpaceInvadersphoto](https://github.com/Saramiss7/Ping-Pong-Retro/raw/main/PingPong.png?raw=true)
 ## 🚀 DESCRIPTION (ENGLISH)
 
 # 🕹️ Ping Pong Retro
